@@ -8,8 +8,8 @@ Using and Install Webpack  example with react  and added css and html configurat
 
 In the project directory, you can run:
 ### `npm start`
-### `npm developone`
-### `npm develop`
+### `npm dev`
+### `npm build`
 
 and see the difference between scripts and how to update bundle.js
 

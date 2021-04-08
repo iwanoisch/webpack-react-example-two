@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Karla:weight@400;700&display=swap");
+
+$font: "Karla", sans-serif;
+$primary-color: #1882e6;
+$secondary-color: #ffffff;
+
+body {
+  font-family: $font;
+  color: $primary-color;
+  background: $secondary-color;
+}
